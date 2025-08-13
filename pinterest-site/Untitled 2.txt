@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="p:domain_verify" content="e0a87e13a8b3dc61acbf353802f78442"/>
+    <title>Angie’s Creative Ideas</title>
+</head>
+<body>
+    <h1>Welcome to Angie’s Creative Ideas!</h1>
+    <p>This is my creative space for DIY projects, inspiration, and more.</p>
+    
+    <h2>About Me</h2>
+    <p>Hi! I’m Angie, a creator who loves sharing fun and practical ideas with the world. 
+    From DIY home projects to seasonal crafts, you’ll find a little bit of everything here.</p>
+
+    <h2>Featured Projects</h2>
+    <ul>
+        <li><strong>DIY Home Decor:</strong> Create beautiful pieces for your home with simple materials.</li>
+        <li><strong>Baking & Recipes:</strong> Sweet and savory treats anyone can make.</li>
+        <li><strong>Creative Organizing:</strong> Fun ways to keep your space tidy and inspiring.</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Find me on Pinterest or email me at example@email.com.</p>
+</body>
+</html>
